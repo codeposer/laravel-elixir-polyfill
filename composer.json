@@ -1,0 +1,13 @@
+{
+    "name": "codeposer/laravel-elixir-polyfill",
+    "description": "Laravel Elixir Polyfill for CodePoser",
+    "keywords": ["laravel-elixir", "codeposer", "codeigniter"],
+    "license": "MIT",
+    "type": "library",
+    "homepage": "https://github.com/codeposer/laravel-elixir-polyfill",
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
