@@ -10,7 +10,7 @@ if (! function_exists('asset_url')) {
      */
     function asset_url($file)
     {
-        return config_item('base_url').'/'.$path;
+        return config_item('base_url').'/'.$file;
     }
 
 }
